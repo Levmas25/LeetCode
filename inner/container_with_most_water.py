@@ -1,5 +1,5 @@
 # M3O-232Б-23
-# Минасян
+# Минасян 
 
 def maxArea(height: list[int]) -> int:
     left = 0
